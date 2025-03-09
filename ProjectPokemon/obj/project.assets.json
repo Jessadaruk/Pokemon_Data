@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjectC#\\ProjectPokemon\\ProjectPokemon\\ProjectPokemon.csproj",
+      "projectUniqueName": "D:\\ProjectC#\\ProjectPokemon\\Pokemon_Data\\ProjectPokemon\\ProjectPokemon.csproj",
       "projectName": "ProjectPokemon",
-      "projectPath": "D:\\ProjectC#\\ProjectPokemon\\ProjectPokemon\\ProjectPokemon.csproj",
+      "projectPath": "D:\\ProjectC#\\ProjectPokemon\\Pokemon_Data\\ProjectPokemon\\ProjectPokemon.csproj",
       "packagesPath": "C:\\Users\\Jessadaruk\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjectC#\\ProjectPokemon\\ProjectPokemon\\obj\\",
+      "outputPath": "D:\\ProjectC#\\ProjectPokemon\\Pokemon_Data\\ProjectPokemon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
